@@ -150,7 +150,7 @@ The application can be deployed to the [Render](https://render.com) hosting plat
 4. Render will automatically build and deploy your application whenever changes are pushed to the connected GitHub repository.
 5. For detailed deployment instructions, refer to the Render documentation.
    
-### Contact
+## Contact
 
 #### LinkedIn: https://www.linkedin.com/in/muhammad-ali-a772a025b/
 #### Portfolio: https://muhammad-aliportfolio.netlify.app/
